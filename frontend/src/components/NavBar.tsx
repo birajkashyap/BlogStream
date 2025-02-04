@@ -79,9 +79,9 @@ export const NavBar = () => {
       <nav className="bg-gray-50 fixed w-full z-20 top-0 left-0 border-b border-gray-200">
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           {/* Logo Section */}
-          <a href="#" className="flex items-center space-x-3">
+          <a href="blogs" className="flex items-center space-x-3">
             <img
-              src="../public/letter-b-vector-logo-seeklogo/letter-b-seeklogo.svg"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDmV7PFHn-GBRUSQVWseyD6UqF3tpAE1nwgA&s"
               className="h-8"
               alt="BlogStream Logo"
             />
